@@ -1,10 +1,13 @@
 .border {
-	border: red 2px solid;
+	border: 2px solid;
 }
 .start{
 	
 }
 
-.forrestgump {
+#forrestgump {
 	width: 100%;
+	padding-top: 50px;
+	margin: 20px;
+
 }
